@@ -1,0 +1,7 @@
+{
+  "name": "Node.js AI Chatbot",
+  "description": "Website chatbot modern dan responsif berbasis Node.js, Express.js, SQLite, dan Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
